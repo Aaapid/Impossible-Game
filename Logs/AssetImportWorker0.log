@@ -169,3 +169,10 @@ Received Import Request.
   path: Assets/PlayerMaterial.mat
   artifactKey: Guid(d9457c954d0103d458115251d9e26ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/PlayerMaterial.mat using Guid(d9457c954d0103d458115251d9e26ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1294787d76616f6e3998dc4d2bc2b138') in 0.074256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 719.794945 seconds.
+  path: Assets/PlayerMaterial.mat
+  artifactKey: Guid(d9457c954d0103d458115251d9e26ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMaterial.mat using Guid(d9457c954d0103d458115251d9e26ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b456732cae79264813263bfdd2bba57') in 0.015654 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
